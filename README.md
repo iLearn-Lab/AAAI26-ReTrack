@@ -28,7 +28,7 @@
 [⬆ Back to top](#top)
 
 ## 📢 News
-- **[2026-03-18]** 🚀 Released all training and evaluation codes for ReTrack.
+- **[2026-03-19]** 🚀 Released all training and evaluation codes for ReTrack.
 - **[2025-11-08]** 🔥 Our paper *"ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval"* has been accepted by **AAAI 2026**!
 
 [⬆ Back to top](#top)
@@ -268,7 +268,7 @@ If you find our work or this code useful in your research, please consider leavi
 
 ```bibtex
 @inproceedings{ReTrack,
-  title={ReTrack: EvidenceDriven DualStream Directional Anchor Calibration Network for Composed Video Retrieval},
+  title={ReTrack: Evidence Driven Dual Stream Directional Anchor Calibration Network for Composed Video Retrieval},
   author={Li, Zixu and Hu, Yupeng and Chen, Zhiwei and Huang, Qinlei and Qiu, Guozhi and Fu, Zhiheng and Liu, Meng},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2026}
