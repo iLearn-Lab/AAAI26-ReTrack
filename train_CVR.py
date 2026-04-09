@@ -100,10 +100,8 @@ def main(cfg: DictConfig):
 def train(model, train_loader, optimizer, fabric, epoch, cfg):
     model.train()
     count = 0
-    with tqdm(total=int(len(train_loader) * 0.01)) as t:
+    with tqdm(total=int(len(train_loader))) as t:
         for batch_idx, batch in enumerate(train_loader):
-            if count == int(len(train_loader)*0.01):
-                break
             count += 1
             optimizer.zero_grad()
 
